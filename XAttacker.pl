@@ -84,7 +84,7 @@ chomp $list;
 }
 if($number eq '2')
 {
-$list= "Sites.txt";
+$list= "website.txt";
 system("perl dork.pl");
 }
 $tmp="tmp";
